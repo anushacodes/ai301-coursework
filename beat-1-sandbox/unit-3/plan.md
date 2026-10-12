@@ -184,4 +184,21 @@ The parser file has 31 passing tests. The complete unit suite reports
 388 passed, 52 xfailed, and 5 warnings. Lint, Black check, and mypy pass.
 Black initially requested formatting in the new parametrized test; that
 file was formatted and the parser tests, lint, and format check rerun.
-Integration and frontend checks were not run; these remain PR-stage checks.
+Integration and frontend checks were not run during Unit 3; the Unit 4 results are recorded below.
+
+
+## Unit 4 verification
+
+On October 12, 2026, the checks were rerun on the same committed fix,
+27fa9264a8426c7675887ce3503e860835c19b61. The reproduction reports 2 passed;
+all 31 parser tests pass. The unit suite reports 388 passed, 52 xfailed
+and 4 warnings. Lint, type checking and Black check pass. Frontend tests
+report 18 passed using the installed dependencies.
+
+The integration command collected no tests: pytest returned 5 and make
+returned 2. This is the empty suite described in the Unit 4 assignment,
+not a passing integration run. Full output is in the local test_evidence.md
+beside this plan; the PR draft includes the relevant results.
+
+No source changes or implementation deviations were needed for these
+checks. The original scope and deliberately excluded work remain the same.
