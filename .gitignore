@@ -1,3 +1,22 @@
-ai301-unit1-starter-main/
+# Local starter downloads and skill installations
+/ai301-unit*-starter*/
+/.claude/
 .DS_Store
-.claude/
+
+# Local Unit 2 drafts, reviews and supporting records
+/beat-1-sandbox/unit-2/claim-review.md
+/beat-1-sandbox/unit-2/claim.md
+/beat-1-sandbox/unit-2/direct-review-results.json
+/beat-1-sandbox/unit-2/direct-review.md
+/beat-1-sandbox/unit-2/eval-notes.md
+/beat-1-sandbox/unit-2/eval-results.json
+/beat-1-sandbox/unit-2/posted-claim.md
+/beat-1-sandbox/unit-2/posted-reproduction.md
+/beat-1-sandbox/unit-2/repro-review.md
+/beat-1-sandbox/unit-2/repro-run.json
+/beat-1-sandbox/unit-2/repro-test-output.txt
+/beat-1-sandbox/unit-2/repro.md
+/beat-1-sandbox/unit-2/setup-checks.json
+/beat-1-sandbox/unit-2/setup-python-packages.txt
+/beat-1-sandbox/unit-2/setup.md
+/tools/repro-check/README.md

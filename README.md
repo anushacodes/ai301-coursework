@@ -4,6 +4,16 @@ This is your one repository for the whole course. You create it in unit 1
 from the course template, and its link is the whole submission at every
 check-in; graders open the folder for that unit's work.
 
+## Current contribution
+
+[KaotoIO/kaoto #3448: Refactor Parameter related components](https://github.com/KaotoIO/kaoto/issues/3448)
+was assigned to `anushacodes` on October 26, 2026. The current write-up is
+[contribution-story.md](beat-2-contribution/contribution-story.md).
+Implementation and baseline tests are pending.
+
+Local supporting files are indexed in `.claude/materials/README.md`.
+They are ignored by Git; older support records are kept in `.claude/archive/`.
+
 ## What lives where
 
 - `tools/`: your installed skill folders, one per unit in Beat 1. Unit 1
