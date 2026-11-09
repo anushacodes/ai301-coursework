@@ -7,12 +7,14 @@ check-in; graders open the folder for that unit's work.
 ## Current contribution
 
 [KaotoIO/kaoto #3448: Refactor Parameter related components](https://github.com/KaotoIO/kaoto/issues/3448)
-was assigned to `anushacodes` on October 26, 2026. The current write-up is
-[contribution-story.md](beat-2-contribution/contribution-story.md).
-Implementation and baseline tests are pending.
+was assigned to `anushacodes` on October 26, 2026 and resolved by
+[PR #4279](https://github.com/KaotoIO/kaoto/pull/4279), merged October 29 (CDT).
+The [contribution story](beat-2-contribution/contribution-story.md) now includes
+the completed Unit 5–8 write-up, including the separately dated November 9
+checks, PR-monitor playbook and final review. Historical process gaps and
+the confirmed baseline test failure remain explicit. Assignment 6 is still
+a template; the course repo link is submitted from the Unit 5 Assignment tab.
 
-Local supporting files are indexed in `.claude/materials/README.md`.
-They are ignored by Git; older support records are kept in `.claude/archive/`.
 
 ## What lives where
 
@@ -27,13 +29,5 @@ They are ignored by Git; older support records are kept in `.claude/archive/`.
   also holds your `plan.md`.
 - `beat-2-contribution/`: `contribution-story.md` is Assignment 5, the
   graded story of your real contribution, built across units 5-8 and
-  submitted once. A second contribution is welcome and never graded: copy
-  `extra-round-template.md` to `contribution-story-2.md`.
-- `beat-3-portfolio/`: `toolkit-portfolio.md` is Assignment 6, the unit-9
-  toolkit portfolio. It is the skeleton you fill in unit 9; until then it
-  waits.
+  submitted once. 
 
-In units 1-4 everything you upload goes to two places: `tools/` for that
-unit's skill folder, and `beat-1-sandbox/unit-N/` for its write-up and
-eval run. Beats 2 and 3 are one file each, and you submit the same repo
-link every unit.
